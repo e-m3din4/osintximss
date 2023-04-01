@@ -7,7 +7,7 @@ One of the few OSINT tools focused on Mexican citizens, retrieve and verify data
 
 Python 3.x
 requests library (pip3 install requests)
-A valid suscrisption to CURP RENAPO and its API key.
+A valid suscrisption to RapidAPI and its IMSS API key.
 
 ## Installation
 
