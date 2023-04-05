@@ -1,13 +1,13 @@
 # OSINT MX 
 ## OSINT x IMSS
 
-One of the few OSINT tools focused on Mexican citizens, retrieve and verify data about a Security Social Number aka IMSS  from a given CURP. Insituto Mexicano del Seguro Social, is a mexican goverment dependency which deals and provides health and clinical services to mexican citizens. This script is part of a collection of non-USA-focused-OSINT tools, designed to retrieve and verify data in the OSINT investigations context. Uses python's requests library and a config.json file containing your API keys managed by RapidAPI (available at RapidAPI.com), data points obtained aid to validate a mexican citizen identity for OSINT research purposes, applied to missing person cases, fraud prevention and identity theft investigations.
+One of the few OSINT tools focused on Mexican citizens, retrieve and verify data about a Social Security Number aka IMSS from a given CURP. Insituto Mexicano del Seguro Social is a Mexican goverment dependency which deals and provides health and clinical services to Mexican citizens. This script is part of a collection of non-USA-focused-OSINT tools, designed to retrieve and verify data in the OSINT investigations context. Uses python's requests library and a config.json file containing your API keys managed by RapidAPI (available at RapidAPI.com), data points obtained aid to validate a mexican citizen identity for OSINT research purposes, applied to missing person cases, fraud prevention and identity theft investigations.
 
 ## Prerequisites
 
 Python 3.x
 requests library (pip3 install requests)
-A valid suscrisption to RapidAPI and its IMSS API key.
+A valid subscription to RapidAPI and its IMSS API key.
 
 ## Installation
 
